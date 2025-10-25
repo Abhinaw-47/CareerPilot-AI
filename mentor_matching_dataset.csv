@@ -1,0 +1,301 @@
+Student_ID,Field_Interest,Skill_Match_Score,GPA,Student_Comm,Professor_ID,Expertise,Feedback_Score,Mentorship_Experience,Professor_Comm,Mentor_Effectiveness,Mentor_Match_Score,Recommended
+S084,Web Development,81,8.85,3.9,P016,Cybersecurity,4.16,8,3.24,3.8,36.13,0
+S010,Web Development,64,7.08,4.85,P012,AI/ML,4.8,1,4.32,3.21,29.93,0
+S087,Cybersecurity,74,9.8,4.38,P030,Web Development,4.78,7,3.09,3.79,35.13,0
+S024,Web Development,41,8.35,3.46,P006,Web Development,5.0,7,4.27,4.26,67.2,0
+S059,Data Science,83,7.24,4.61,P011,Data Science,3.97,6,3.23,3.4,67.07,0
+S004,Cybersecurity,88,7.35,3.19,P005,Web Development,4.21,8,4.83,4.35,40.73,0
+S055,Cybersecurity,79,7.26,4.7,P025,Mobile Development,3.9,1,3.57,2.66,28.27,0
+S080,Web Development,69,7.74,4.46,P028,Cybersecurity,4.0,9,3.75,4.08,36.4,0
+S041,Mobile Development,99,8.65,4.88,P002,Data Science,4.83,6,4.21,4.01,39.93,0
+S078,Mobile Development,62,8.13,4.32,P009,Cybersecurity,4.12,8,3.58,3.9,34.27,0
+S016,Mobile Development,83,9.54,4.5,P009,Cybersecurity,4.12,8,3.58,3.9,37.07,0
+S073,Mobile Development,54,8.6,4.56,P022,Web Development,4.19,3,3.77,3.15,28.2,0
+S043,Web Development,72,7.95,4.81,P025,Mobile Development,3.9,1,3.57,2.66,27.33,0
+S061,AI/ML,65,6.98,4.31,P007,AI/ML,4.95,8,3.7,4.22,70.13,1
+S039,Mobile Development,99,7.4,3.14,P011,Data Science,3.97,6,3.23,3.4,35.87,0
+S038,AI/ML,79,9.99,4.99,P023,Mobile Development,4.26,3,4.73,3.5,33.87,0
+S041,Mobile Development,99,8.65,4.88,P028,Cybersecurity,4.0,9,3.75,4.08,40.4,0
+S062,Data Science,75,7.0,4.7,P011,Data Science,3.97,6,3.23,3.4,66.0,0
+S028,Data Science,65,8.91,4.6,P026,Cybersecurity,4.76,10,5.0,4.92,41.47,0
+S027,Web Development,82,7.72,3.85,P011,Data Science,3.97,6,3.23,3.4,33.6,0
+S035,Data Science,44,8.38,4.35,P029,Cybersecurity,4.8,4,4.14,3.65,30.2,0
+S023,Cybersecurity,68,9.6,3.9,P005,Web Development,4.21,8,4.83,4.35,38.07,0
+S051,Data Science,57,9.46,4.93,P001,Mobile Development,4.31,8,3.16,3.82,33.07,0
+S093,Web Development,78,8.38,4.24,P013,Mobile Development,4.19,1,3.38,2.69,28.33,0
+S066,Web Development,84,6.61,3.43,P011,Data Science,3.97,6,3.23,3.4,33.87,0
+S058,AI/ML,83,6.85,3.95,P018,Data Science,4.33,2,3.45,2.93,30.6,0
+S022,Cybersecurity,99,8.16,4.46,P016,Cybersecurity,4.16,8,3.24,3.8,71.87,1
+S099,Data Science,90,7.23,4.5,P017,Mobile Development,4.7,3,3.62,3.27,33.8,0
+S007,Mobile Development,82,6.91,3.58,P002,Data Science,4.83,6,4.21,4.01,37.67,0
+S032,AI/ML,64,6.01,3.78,P022,Web Development,4.19,3,3.77,3.15,29.53,0
+S019,Web Development,78,7.3,3.04,P020,Web Development,4.25,5,4.02,3.59,67.67,0
+S002,Mobile Development,54,8.02,3.05,P025,Mobile Development,3.9,1,3.57,2.66,58.27,0
+S008,Web Development,57,7.81,4.67,P020,Web Development,4.25,5,4.02,3.59,64.87,0
+S085,Data Science,59,8.66,3.74,P005,Web Development,4.21,8,4.83,4.35,36.87,0
+S071,Data Science,56,7.52,3.42,P022,Web Development,4.19,3,3.77,3.15,28.47,0
+S071,Data Science,56,7.52,3.42,P004,Data Science,5.0,5,4.15,3.88,66.67,0
+S056,Cybersecurity,65,8.79,4.11,P024,Cybersecurity,4.66,7,3.68,3.95,68.33,0
+S044,Data Science,89,6.52,4.96,P019,Data Science,4.19,2,4.3,3.16,66.27,0
+S099,Data Science,90,7.23,4.5,P028,Cybersecurity,4.0,9,3.75,4.08,39.2,0
+S051,Data Science,57,9.46,4.93,P011,Data Science,3.97,6,3.23,3.4,63.6,0
+S029,Web Development,68,6.56,3.37,P030,Web Development,4.78,7,3.09,3.79,67.67,0
+S007,Mobile Development,82,6.91,3.58,P009,Cybersecurity,4.12,8,3.58,3.9,36.93,0
+S095,Web Development,45,6.63,3.35,P006,Web Development,5.0,7,4.27,4.26,67.73,0
+S001,Data Science,55,6.89,4.47,P003,Data Science,3.64,10,4.17,4.27,69.13,0
+S067,AI/ML,53,9.33,3.78,P003,Data Science,3.64,10,4.17,4.27,35.53,0
+S034,Mobile Development,43,6.2,3.95,P001,Mobile Development,4.31,8,3.16,3.82,64.53,0
+S050,Data Science,59,9.28,4.74,P023,Mobile Development,4.26,3,4.73,3.5,31.2,0
+S073,Mobile Development,54,8.6,4.56,P020,Web Development,4.25,5,4.02,3.59,31.13,0
+S045,AI/ML,74,6.14,3.74,P009,Cybersecurity,4.12,8,3.58,3.9,35.87,0
+S078,Mobile Development,62,8.13,4.32,P030,Web Development,4.78,7,3.09,3.79,33.53,0
+S001,Data Science,55,6.89,4.47,P010,AI/ML,4.72,9,3.07,4.1,34.67,0
+S064,Cybersecurity,57,9.06,4.04,P029,Cybersecurity,4.8,4,4.14,3.65,65.27,0
+S036,AI/ML,77,8.38,4.24,P024,Cybersecurity,4.66,7,3.68,3.95,36.6,0
+S046,AI/ML,63,9.6,4.59,P027,AI/ML,4.8,8,4.08,4.29,70.33,1
+S032,AI/ML,64,6.01,3.78,P022,Web Development,4.19,3,3.77,3.15,29.53,0
+S025,Data Science,54,6.27,3.06,P030,Web Development,4.78,7,3.09,3.79,32.47,0
+S017,Data Science,40,9.82,4.75,P011,Data Science,3.97,6,3.23,3.4,61.33,0
+S020,Cybersecurity,55,9.51,4.89,P006,Web Development,5.0,7,4.27,4.26,35.73,0
+S032,AI/ML,64,6.01,3.78,P013,Mobile Development,4.19,1,3.38,2.69,26.47,0
+S003,Mobile Development,88,9.22,4.4,P004,Data Science,5.0,5,4.15,3.88,37.6,0
+S034,Mobile Development,43,6.2,3.95,P021,Cybersecurity,4.12,8,4.96,4.36,34.8,0
+S060,Data Science,70,8.45,4.54,P024,Cybersecurity,4.66,7,3.68,3.95,35.67,0
+S077,AI/ML,84,9.32,3.49,P023,Mobile Development,4.26,3,4.73,3.5,34.53,0
+S049,Web Development,57,6.64,4.4,P021,Cybersecurity,4.12,8,4.96,4.36,36.67,0
+S078,Mobile Development,62,8.13,4.32,P009,Cybersecurity,4.12,8,3.58,3.9,34.27,0
+S020,Cybersecurity,55,9.51,4.89,P019,Data Science,4.19,2,4.3,3.16,28.4,0
+S017,Data Science,40,9.82,4.75,P012,AI/ML,4.8,1,4.32,3.21,26.73,0
+S079,Mobile Development,46,7.73,3.72,P021,Cybersecurity,4.12,8,4.96,4.36,35.2,0
+S084,Web Development,81,8.85,3.9,P001,Mobile Development,4.31,8,3.16,3.82,36.27,0
+S056,Cybersecurity,65,8.79,4.11,P019,Data Science,4.19,2,4.3,3.16,29.73,0
+S041,Mobile Development,99,8.65,4.88,P020,Web Development,4.25,5,4.02,3.59,37.13,0
+S074,Data Science,79,6.61,3.25,P006,Web Development,5.0,7,4.27,4.26,38.93,0
+S063,Web Development,97,6.64,4.72,P002,Data Science,4.83,6,4.21,4.01,39.67,0
+S040,Cybersecurity,93,8.17,3.61,P009,Cybersecurity,4.12,8,3.58,3.9,71.73,1
+S087,Cybersecurity,74,9.8,4.38,P025,Mobile Development,3.9,1,3.57,2.66,27.6,0
+S067,AI/ML,53,9.33,3.78,P029,Cybersecurity,4.8,4,4.14,3.65,31.4,0
+S070,AI/ML,79,8.14,4.81,P023,Mobile Development,4.26,3,4.73,3.5,33.87,0
+S053,Web Development,62,8.91,3.63,P024,Cybersecurity,4.66,7,3.68,3.95,34.6,0
+S060,Data Science,70,8.45,4.54,P030,Web Development,4.78,7,3.09,3.79,34.6,0
+S080,Web Development,69,7.74,4.46,P027,AI/ML,4.8,8,4.08,4.29,37.8,0
+S035,Data Science,44,8.38,4.35,P010,AI/ML,4.72,9,3.07,4.1,33.2,0
+S012,Data Science,81,8.0,4.77,P006,Web Development,5.0,7,4.27,4.26,39.2,0
+S099,Data Science,90,7.23,4.5,P012,AI/ML,4.8,1,4.32,3.21,33.4,0
+S054,AI/ML,85,7.74,4.04,P020,Web Development,4.25,5,4.02,3.59,35.27,0
+S018,Mobile Development,59,9.37,4.02,P019,Data Science,4.19,2,4.3,3.16,28.93,0
+S086,AI/ML,57,7.23,3.46,P014,Cybersecurity,4.43,8,4.25,4.23,35.8,0
+S029,Web Development,68,6.56,3.37,P017,Mobile Development,4.7,3,3.62,3.27,30.87,0
+S054,AI/ML,85,7.74,4.04,P018,Data Science,4.33,2,3.45,2.93,30.87,0
+S072,Cybersecurity,56,9.34,3.94,P020,Web Development,4.25,5,4.02,3.59,31.4,0
+S027,Web Development,82,7.72,3.85,P009,Cybersecurity,4.12,8,3.58,3.9,36.93,0
+S045,AI/ML,74,6.14,3.74,P001,Mobile Development,4.31,8,3.16,3.82,35.33,0
+S027,Web Development,82,7.72,3.85,P015,Data Science,3.81,9,3.26,3.86,36.67,0
+S002,Mobile Development,54,8.02,3.05,P007,AI/ML,4.95,8,3.7,4.22,35.33,0
+S030,Web Development,91,9.45,4.1,P017,Mobile Development,4.7,3,3.62,3.27,33.93,0
+S096,Web Development,68,8.76,3.94,P004,Data Science,5.0,5,4.15,3.88,34.93,0
+S033,Cybersecurity,49,6.76,3.44,P007,AI/ML,4.95,8,3.7,4.22,34.67,0
+S029,Web Development,68,6.56,3.37,P014,Cybersecurity,4.43,8,4.25,4.23,37.27,0
+S050,Data Science,59,9.28,4.74,P021,Cybersecurity,4.12,8,4.96,4.36,36.93,0
+S073,Mobile Development,54,8.6,4.56,P021,Cybersecurity,4.12,8,4.96,4.36,36.27,0
+S078,Mobile Development,62,8.13,4.32,P004,Data Science,5.0,5,4.15,3.88,34.13,0
+S025,Data Science,54,6.27,3.06,P026,Cybersecurity,4.76,10,5.0,4.92,40.0,0
+S069,Mobile Development,57,7.74,3.06,P024,Cybersecurity,4.66,7,3.68,3.95,33.93,0
+S040,Cybersecurity,93,8.17,3.61,P023,Mobile Development,4.26,3,4.73,3.5,35.73,0
+S063,Web Development,97,6.64,4.72,P004,Data Science,5.0,5,4.15,3.88,38.8,0
+S049,Web Development,57,6.64,4.4,P003,Data Science,3.64,10,4.17,4.27,36.07,0
+S056,Cybersecurity,65,8.79,4.11,P029,Cybersecurity,4.8,4,4.14,3.65,66.33,0
+S025,Data Science,54,6.27,3.06,P005,Web Development,4.21,8,4.83,4.35,36.2,0
+S077,AI/ML,84,9.32,3.49,P024,Cybersecurity,4.66,7,3.68,3.95,37.53,0
+S074,Data Science,79,6.61,3.25,P022,Web Development,4.19,3,3.77,3.15,31.53,0
+S100,AI/ML,84,7.22,3.81,P005,Web Development,4.21,8,4.83,4.35,40.2,0
+S013,Web Development,87,8.34,4.8,P020,Web Development,4.25,5,4.02,3.59,68.87,0
+S096,Web Development,68,8.76,3.94,P005,Web Development,4.21,8,4.83,4.35,71.4,1
+S099,Data Science,90,7.23,4.5,P011,Data Science,3.97,6,3.23,3.4,68.0,0
+S094,AI/ML,76,8.48,4.22,P025,Mobile Development,3.9,1,3.57,2.66,27.87,0
+S063,Web Development,97,6.64,4.72,P026,Cybersecurity,4.76,10,5.0,4.92,45.73,0
+S100,AI/ML,84,7.22,3.81,P014,Cybersecurity,4.43,8,4.25,4.23,39.4,0
+S084,Web Development,81,8.85,3.9,P030,Web Development,4.78,7,3.09,3.79,69.4,0
+S021,AI/ML,48,8.64,4.89,P029,Cybersecurity,4.8,4,4.14,3.65,30.73,0
+S006,AI/ML,93,8.51,4.77,P002,Data Science,4.83,6,4.21,4.01,39.13,0
+S024,Web Development,41,8.35,3.46,P012,AI/ML,4.8,1,4.32,3.21,26.87,0
+S001,Data Science,55,6.89,4.47,P009,Cybersecurity,4.12,8,3.58,3.9,33.33,0
+S016,Mobile Development,83,9.54,4.5,P014,Cybersecurity,4.43,8,4.25,4.23,39.27,0
+S006,AI/ML,93,8.51,4.77,P013,Mobile Development,4.19,1,3.38,2.69,30.33,0
+S040,Cybersecurity,93,8.17,3.61,P009,Cybersecurity,4.12,8,3.58,3.9,71.73,1
+S002,Mobile Development,54,8.02,3.05,P013,Mobile Development,4.19,1,3.38,2.69,58.47,0
+S036,AI/ML,77,8.38,4.24,P023,Mobile Development,4.26,3,4.73,3.5,33.6,0
+S071,Data Science,56,7.52,3.42,P011,Data Science,3.97,6,3.23,3.4,63.47,0
+S005,Cybersecurity,91,6.17,3.92,P010,AI/ML,4.72,9,3.07,4.1,39.47,0
+S087,Cybersecurity,74,9.8,4.38,P019,Data Science,4.19,2,4.3,3.16,30.93,0
+S089,Cybersecurity,74,6.51,3.09,P024,Cybersecurity,4.66,7,3.68,3.95,69.53,0
+S078,Mobile Development,62,8.13,4.32,P022,Web Development,4.19,3,3.77,3.15,29.27,0
+S019,Web Development,78,7.3,3.04,P017,Mobile Development,4.7,3,3.62,3.27,32.2,0
+S054,AI/ML,85,7.74,4.04,P015,Data Science,3.81,9,3.26,3.86,37.07,0
+S025,Data Science,54,6.27,3.06,P006,Web Development,5.0,7,4.27,4.26,35.6,0
+S040,Cybersecurity,93,8.17,3.61,P028,Cybersecurity,4.0,9,3.75,4.08,72.93,1
+S096,Web Development,68,8.76,3.94,P025,Mobile Development,3.9,1,3.57,2.66,26.8,0
+S013,Web Development,87,8.34,4.8,P013,Mobile Development,4.19,1,3.38,2.69,29.53,0
+S038,AI/ML,79,9.99,4.99,P026,Cybersecurity,4.76,10,5.0,4.92,43.33,0
+S057,AI/ML,75,9.33,3.61,P014,Cybersecurity,4.43,8,4.25,4.23,38.2,0
+S044,Data Science,89,6.52,4.96,P013,Mobile Development,4.19,1,3.38,2.69,29.8,0
+S099,Data Science,90,7.23,4.5,P008,Cybersecurity,3.98,2,4.72,3.23,33.53,0
+S088,Web Development,93,6.78,3.45,P010,AI/ML,4.72,9,3.07,4.1,39.73,0
+S005,Cybersecurity,91,6.17,3.92,P026,Cybersecurity,4.76,10,5.0,4.92,78.27,1
+S040,Cybersecurity,93,8.17,3.61,P016,Cybersecurity,4.16,8,3.24,3.8,71.07,1
+S059,Data Science,83,7.24,4.61,P025,Mobile Development,3.9,1,3.57,2.66,28.8,0
+S034,Mobile Development,43,6.2,3.95,P011,Data Science,3.97,6,3.23,3.4,28.4,0
+S028,Data Science,65,8.91,4.6,P021,Cybersecurity,4.12,8,4.96,4.36,37.73,0
+S066,Web Development,84,6.61,3.43,P028,Cybersecurity,4.0,9,3.75,4.08,38.4,0
+S047,Cybersecurity,55,8.67,3.71,P008,Cybersecurity,3.98,2,4.72,3.23,62.2,0
+S058,AI/ML,83,6.85,3.95,P018,Data Science,4.33,2,3.45,2.93,30.6,0
+S035,Data Science,44,8.38,4.35,P002,Data Science,4.83,6,4.21,4.01,65.93,0
+S092,AI/ML,49,9.24,4.9,P003,Data Science,3.64,10,4.17,4.27,35.0,0
+S057,AI/ML,75,9.33,3.61,P018,Data Science,4.33,2,3.45,2.93,29.53,0
+S052,Cybersecurity,100,6.11,4.75,P030,Web Development,4.78,7,3.09,3.79,38.6,0
+S063,Web Development,97,6.64,4.72,P003,Data Science,3.64,10,4.17,4.27,41.4,0
+S060,Data Science,70,8.45,4.54,P020,Web Development,4.25,5,4.02,3.59,33.27,0
+S015,Web Development,44,7.54,4.19,P028,Cybersecurity,4.0,9,3.75,4.08,33.07,0
+S052,Cybersecurity,100,6.11,4.75,P005,Web Development,4.21,8,4.83,4.35,42.33,0
+S016,Mobile Development,83,9.54,4.5,P025,Mobile Development,3.9,1,3.57,2.66,62.13,0
+S073,Mobile Development,54,8.6,4.56,P014,Cybersecurity,4.43,8,4.25,4.23,35.4,0
+S099,Data Science,90,7.23,4.5,P024,Cybersecurity,4.66,7,3.68,3.95,38.33,0
+S027,Web Development,82,7.72,3.85,P005,Web Development,4.21,8,4.83,4.35,73.27,1
+S020,Cybersecurity,55,9.51,4.89,P012,AI/ML,4.8,1,4.32,3.21,28.73,0
+S049,Web Development,57,6.64,4.4,P023,Mobile Development,4.26,3,4.73,3.5,30.93,0
+S015,Web Development,44,7.54,4.19,P010,AI/ML,4.72,9,3.07,4.1,33.2,0
+S083,Cybersecurity,75,6.04,4.9,P002,Data Science,4.83,6,4.21,4.01,36.73,0
+S002,Mobile Development,54,8.02,3.05,P016,Cybersecurity,4.16,8,3.24,3.8,32.53,0
+S038,AI/ML,79,9.99,4.99,P018,Data Science,4.33,2,3.45,2.93,30.07,0
+S083,Cybersecurity,75,6.04,4.9,P002,Data Science,4.83,6,4.21,4.01,36.73,0
+S097,Web Development,44,8.75,4.85,P003,Data Science,3.64,10,4.17,4.27,34.33,0
+S056,Cybersecurity,65,8.79,4.11,P021,Cybersecurity,4.12,8,4.96,4.36,71.07,1
+S043,Web Development,72,7.95,4.81,P028,Cybersecurity,4.0,9,3.75,4.08,36.8,0
+S080,Web Development,69,7.74,4.46,P026,Cybersecurity,4.76,10,5.0,4.92,42.0,0
+S034,Mobile Development,43,6.2,3.95,P017,Mobile Development,4.7,3,3.62,3.27,60.87,0
+S026,Data Science,71,6.86,3.26,P027,AI/ML,4.8,8,4.08,4.29,38.07,0
+S057,AI/ML,75,9.33,3.61,P002,Data Science,4.83,6,4.21,4.01,36.73,0
+S028,Data Science,65,8.91,4.6,P016,Cybersecurity,4.16,8,3.24,3.8,34.0,0
+S024,Web Development,41,8.35,3.46,P027,AI/ML,4.8,8,4.08,4.29,34.07,0
+S094,AI/ML,76,8.48,4.22,P014,Cybersecurity,4.43,8,4.25,4.23,38.33,0
+S016,Mobile Development,83,9.54,4.5,P021,Cybersecurity,4.12,8,4.96,4.36,40.13,0
+S034,Mobile Development,43,6.2,3.95,P020,Web Development,4.25,5,4.02,3.59,29.67,0
+S063,Web Development,97,6.64,4.72,P007,AI/ML,4.95,8,3.7,4.22,41.07,0
+S019,Web Development,78,7.3,3.04,P010,AI/ML,4.72,9,3.07,4.1,37.73,0
+S034,Mobile Development,43,6.2,3.95,P020,Web Development,4.25,5,4.02,3.59,29.67,0
+S037,Mobile Development,55,7.06,3.26,P006,Web Development,5.0,7,4.27,4.26,35.73,0
+S053,Web Development,62,8.91,3.63,P008,Cybersecurity,3.98,2,4.72,3.23,29.8,0
+S044,Data Science,89,6.52,4.96,P010,AI/ML,4.72,9,3.07,4.1,39.2,0
+S091,AI/ML,100,9.45,3.23,P030,Web Development,4.78,7,3.09,3.79,38.6,0
+S040,Cybersecurity,93,8.17,3.61,P015,Data Science,3.81,9,3.26,3.86,38.13,0
+S019,Web Development,78,7.3,3.04,P012,AI/ML,4.8,1,4.32,3.21,31.8,0
+S059,Data Science,83,7.24,4.61,P026,Cybersecurity,4.76,10,5.0,4.92,43.87,0
+S018,Mobile Development,59,9.37,4.02,P027,AI/ML,4.8,8,4.08,4.29,36.47,0
+S074,Data Science,79,6.61,3.25,P008,Cybersecurity,3.98,2,4.72,3.23,32.07,0
+S013,Web Development,87,8.34,4.8,P022,Web Development,4.19,3,3.77,3.15,65.93,0
+S061,AI/ML,65,6.98,4.31,P003,Data Science,3.64,10,4.17,4.27,37.13,0
+S038,AI/ML,79,9.99,4.99,P017,Mobile Development,4.7,3,3.62,3.27,32.33,0
+S076,Web Development,99,7.25,4.35,P017,Mobile Development,4.7,3,3.62,3.27,35.0,0
+S049,Web Development,57,6.64,4.4,P029,Cybersecurity,4.8,4,4.14,3.65,31.93,0
+S075,Mobile Development,56,9.07,3.34,P009,Cybersecurity,4.12,8,3.58,3.9,33.47,0
+S095,Web Development,45,6.63,3.35,P030,Web Development,4.78,7,3.09,3.79,64.6,0
+S048,AI/ML,91,9.24,4.76,P002,Data Science,4.83,6,4.21,4.01,38.87,0
+S039,Mobile Development,99,7.4,3.14,P019,Data Science,4.19,2,4.3,3.16,34.27,0
+S099,Data Science,90,7.23,4.5,P012,AI/ML,4.8,1,4.32,3.21,33.4,0
+S062,Data Science,75,7.0,4.7,P022,Web Development,4.19,3,3.77,3.15,31.0,0
+S069,Mobile Development,57,7.74,3.06,P001,Mobile Development,4.31,8,3.16,3.82,66.4,0
+S066,Web Development,84,6.61,3.43,P005,Web Development,4.21,8,4.83,4.35,73.53,1
+S009,Cybersecurity,84,9.75,4.3,P028,Cybersecurity,4.0,9,3.75,4.08,71.73,1
+S016,Mobile Development,83,9.54,4.5,P029,Cybersecurity,4.8,4,4.14,3.65,35.4,0
+S066,Web Development,84,6.61,3.43,P030,Web Development,4.78,7,3.09,3.79,69.8,0
+S092,AI/ML,49,9.24,4.9,P019,Data Science,4.19,2,4.3,3.16,27.6,0
+S031,Mobile Development,99,9.01,3.47,P030,Web Development,4.78,7,3.09,3.79,38.47,0
+S008,Web Development,57,7.81,4.67,P020,Web Development,4.25,5,4.02,3.59,64.87,0
+S033,Cybersecurity,49,6.76,3.44,P005,Web Development,4.21,8,4.83,4.35,35.53,0
+S003,Mobile Development,88,9.22,4.4,P004,Data Science,5.0,5,4.15,3.88,37.6,0
+S012,Data Science,81,8.0,4.77,P012,AI/ML,4.8,1,4.32,3.21,32.2,0
+S026,Data Science,71,6.86,3.26,P006,Web Development,5.0,7,4.27,4.26,37.87,0
+S086,AI/ML,57,7.23,3.46,P007,AI/ML,4.95,8,3.7,4.22,69.07,0
+S058,AI/ML,83,6.85,3.95,P015,Data Science,3.81,9,3.26,3.86,36.8,0
+S095,Web Development,45,6.63,3.35,P011,Data Science,3.97,6,3.23,3.4,28.67,0
+S044,Data Science,89,6.52,4.96,P011,Data Science,3.97,6,3.23,3.4,67.87,0
+S099,Data Science,90,7.23,4.5,P021,Cybersecurity,4.12,8,4.96,4.36,41.07,0
+S021,AI/ML,48,8.64,4.89,P029,Cybersecurity,4.8,4,4.14,3.65,30.73,0
+S069,Mobile Development,57,7.74,3.06,P025,Mobile Development,3.9,1,3.57,2.66,58.67,0
+S039,Mobile Development,99,7.4,3.14,P011,Data Science,3.97,6,3.23,3.4,35.87,0
+S009,Cybersecurity,84,9.75,4.3,P027,AI/ML,4.8,8,4.08,4.29,39.8,0
+S016,Mobile Development,83,9.54,4.5,P010,AI/ML,4.72,9,3.07,4.1,38.4,0
+S052,Cybersecurity,100,6.11,4.75,P017,Mobile Development,4.7,3,3.62,3.27,35.13,0
+S086,AI/ML,57,7.23,3.46,P006,Web Development,5.0,7,4.27,4.26,36.0,0
+S090,Mobile Development,46,9.49,4.15,P029,Cybersecurity,4.8,4,4.14,3.65,30.47,0
+S097,Web Development,44,8.75,4.85,P007,AI/ML,4.95,8,3.7,4.22,34.0,0
+S018,Mobile Development,59,9.37,4.02,P010,AI/ML,4.72,9,3.07,4.1,35.2,0
+S052,Cybersecurity,100,6.11,4.75,P010,AI/ML,4.72,9,3.07,4.1,40.67,0
+S047,Cybersecurity,55,8.67,3.71,P011,Data Science,3.97,6,3.23,3.4,30.0,0
+S099,Data Science,90,7.23,4.5,P011,Data Science,3.97,6,3.23,3.4,68.0,0
+S034,Mobile Development,43,6.2,3.95,P016,Cybersecurity,4.16,8,3.24,3.8,31.07,0
+S005,Cybersecurity,91,6.17,3.92,P029,Cybersecurity,4.8,4,4.14,3.65,69.8,0
+S007,Mobile Development,82,6.91,3.58,P019,Data Science,4.19,2,4.3,3.16,32.0,0
+S079,Mobile Development,46,7.73,3.72,P024,Cybersecurity,4.66,7,3.68,3.95,32.47,0
+S096,Web Development,68,8.76,3.94,P006,Web Development,5.0,7,4.27,4.26,70.8,1
+S049,Web Development,57,6.64,4.4,P011,Data Science,3.97,6,3.23,3.4,30.27,0
+S091,AI/ML,100,9.45,3.23,P002,Data Science,4.83,6,4.21,4.01,40.07,0
+S048,AI/ML,91,9.24,4.76,P003,Data Science,3.64,10,4.17,4.27,40.6,0
+S058,AI/ML,83,6.85,3.95,P009,Cybersecurity,4.12,8,3.58,3.9,37.07,0
+S054,AI/ML,85,7.74,4.04,P028,Cybersecurity,4.0,9,3.75,4.08,38.53,0
+S089,Cybersecurity,74,6.51,3.09,P008,Cybersecurity,3.98,2,4.72,3.23,64.73,0
+S014,Cybersecurity,72,7.97,4.51,P011,Data Science,3.97,6,3.23,3.4,32.27,0
+S004,Cybersecurity,88,7.35,3.19,P015,Data Science,3.81,9,3.26,3.86,37.47,0
+S007,Mobile Development,82,6.91,3.58,P002,Data Science,4.83,6,4.21,4.01,37.67,0
+S069,Mobile Development,57,7.74,3.06,P002,Data Science,4.83,6,4.21,4.01,34.33,0
+S097,Web Development,44,8.75,4.85,P011,Data Science,3.97,6,3.23,3.4,28.53,0
+S036,AI/ML,77,8.38,4.24,P029,Cybersecurity,4.8,4,4.14,3.65,34.6,0
+S059,Data Science,83,7.24,4.61,P009,Cybersecurity,4.12,8,3.58,3.9,37.07,0
+S090,Mobile Development,46,9.49,4.15,P016,Cybersecurity,4.16,8,3.24,3.8,31.47,0
+S087,Cybersecurity,74,9.8,4.38,P012,AI/ML,4.8,1,4.32,3.21,31.27,0
+S067,AI/ML,53,9.33,3.78,P018,Data Science,4.33,2,3.45,2.93,26.6,0
+S041,Mobile Development,99,8.65,4.88,P002,Data Science,4.83,6,4.21,4.01,39.93,0
+S094,AI/ML,76,8.48,4.22,P010,AI/ML,4.72,9,3.07,4.1,70.8,1
+S059,Data Science,83,7.24,4.61,P004,Data Science,5.0,5,4.15,3.88,70.27,1
+S083,Cybersecurity,75,6.04,4.9,P029,Cybersecurity,4.8,4,4.14,3.65,67.67,0
+S046,AI/ML,63,9.6,4.59,P028,Cybersecurity,4.0,9,3.75,4.08,35.6,0
+S088,Web Development,93,6.78,3.45,P024,Cybersecurity,4.66,7,3.68,3.95,38.73,0
+S057,AI/ML,75,9.33,3.61,P028,Cybersecurity,4.0,9,3.75,4.08,37.2,0
+S014,Cybersecurity,72,7.97,4.51,P006,Web Development,5.0,7,4.27,4.26,38.0,0
+S076,Web Development,99,7.25,4.35,P007,AI/ML,4.95,8,3.7,4.22,41.33,0
+S089,Cybersecurity,74,6.51,3.09,P006,Web Development,5.0,7,4.27,4.26,38.27,0
+S074,Data Science,79,6.61,3.25,P024,Cybersecurity,4.66,7,3.68,3.95,36.87,0
+S027,Web Development,82,7.72,3.85,P014,Cybersecurity,4.43,8,4.25,4.23,39.13,0
+S017,Data Science,40,9.82,4.75,P028,Cybersecurity,4.0,9,3.75,4.08,32.53,0
+S019,Web Development,78,7.3,3.04,P024,Cybersecurity,4.66,7,3.68,3.95,36.73,0
+S099,Data Science,90,7.23,4.5,P029,Cybersecurity,4.8,4,4.14,3.65,36.33,0
+S051,Data Science,57,9.46,4.93,P012,AI/ML,4.8,1,4.32,3.21,29.0,0
+S088,Web Development,93,6.78,3.45,P001,Mobile Development,4.31,8,3.16,3.82,37.87,0
+S057,AI/ML,75,9.33,3.61,P004,Data Science,5.0,5,4.15,3.88,35.87,0
+S087,Cybersecurity,74,9.8,4.38,P024,Cybersecurity,4.66,7,3.68,3.95,69.53,0
+S045,AI/ML,74,6.14,3.74,P008,Cybersecurity,3.98,2,4.72,3.23,31.4,0
+S054,AI/ML,85,7.74,4.04,P027,AI/ML,4.8,8,4.08,4.29,73.27,1
+S041,Mobile Development,99,8.65,4.88,P026,Cybersecurity,4.76,10,5.0,4.92,46.0,0
+S005,Cybersecurity,91,6.17,3.92,P011,Data Science,3.97,6,3.23,3.4,34.8,0
+S031,Mobile Development,99,9.01,3.47,P018,Data Science,4.33,2,3.45,2.93,32.73,0
+S029,Web Development,68,6.56,3.37,P021,Cybersecurity,4.12,8,4.96,4.36,38.13,0
+S014,Cybersecurity,72,7.97,4.51,P005,Web Development,4.21,8,4.83,4.35,38.6,0
+S086,AI/ML,57,7.23,3.46,P005,Web Development,4.21,8,4.83,4.35,36.6,0
+S060,Data Science,70,8.45,4.54,P021,Cybersecurity,4.12,8,4.96,4.36,38.4,0
+S070,AI/ML,79,8.14,4.81,P005,Web Development,4.21,8,4.83,4.35,39.53,0
+S017,Data Science,40,9.82,4.75,P004,Data Science,5.0,5,4.15,3.88,64.53,0
+S074,Data Science,79,6.61,3.25,P014,Cybersecurity,4.43,8,4.25,4.23,38.73,0
+S008,Web Development,57,7.81,4.67,P007,AI/ML,4.95,8,3.7,4.22,35.73,0
+S034,Mobile Development,43,6.2,3.95,P008,Cybersecurity,3.98,2,4.72,3.23,27.27,0
+S020,Cybersecurity,55,9.51,4.89,P012,AI/ML,4.8,1,4.32,3.21,28.73,0
+S025,Data Science,54,6.27,3.06,P027,AI/ML,4.8,8,4.08,4.29,35.8,0
+S090,Mobile Development,46,9.49,4.15,P023,Mobile Development,4.26,3,4.73,3.5,62.8,0
+S018,Mobile Development,59,9.37,4.02,P008,Cybersecurity,3.98,2,4.72,3.23,29.4,0
+S073,Mobile Development,54,8.6,4.56,P020,Web Development,4.25,5,4.02,3.59,31.13,0
+S007,Mobile Development,82,6.91,3.58,P027,AI/ML,4.8,8,4.08,4.29,39.53,0
+S031,Mobile Development,99,9.01,3.47,P018,Data Science,4.33,2,3.45,2.93,32.73,0
+S099,Data Science,90,7.23,4.5,P003,Data Science,3.64,10,4.17,4.27,73.8,1
+S034,Mobile Development,43,6.2,3.95,P012,AI/ML,4.8,1,4.32,3.21,27.13,0
+S064,Cybersecurity,57,9.06,4.04,P001,Mobile Development,4.31,8,3.16,3.82,33.07,0
+S026,Data Science,71,6.86,3.26,P019,Data Science,4.19,2,4.3,3.16,63.87,0
+S037,Mobile Development,55,7.06,3.26,P023,Mobile Development,4.26,3,4.73,3.5,64.0,0
